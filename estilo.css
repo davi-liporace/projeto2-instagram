@@ -292,7 +292,7 @@
 .img-stories2 h1{
         margin-left: 5%;
 }
-@media (max-width: 1300px){
+@media (max-width: 1300px){ /* Coloquei 1300 ao invés do valor pedido pois minha barra lateral começava a sobrepor o conteúdo principal a partir daí */
 .menu-lateral{
     display:none;
 }
